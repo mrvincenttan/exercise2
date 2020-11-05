@@ -1,0 +1,18 @@
+h1{
+    color:red;
+}
+p{
+    border: 10px; color:blue;
+}
+#nameid{
+    background-color: green;
+}
+#addressid{
+    padding-top: 20px; background-color: yellow;
+}
+#phoneid{
+    background-color: red; margin: 40px;
+}
+#emailid{
+    background-color: blue; border-radius: 3px;
+}
